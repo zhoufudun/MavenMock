@@ -1,0 +1,10 @@
+2019-09-02 21:18:04.035 [main] INFO  com.zhoufudun.mail.test.MailTest 35 line - 开始发送邮件
+2019-09-02 21:18:05.753 [main] INFO  c.z.m.service.impl.MailServiceImpl 44 line - 发送邮件成功！
+2019-09-02 21:18:05.765 [main] INFO  com.zhoufudun.mail.test.MailTest 37 line - 邮件发送成功
+ 2019-09-02 22:34:37.422 [main] INFO  com.zhoufudun.mail.test.MailTest 35 line - 开始发送邮件
+2019-09-02 22:34:41.298 [main] INFO  c.z.m.service.impl.MailServiceImpl 44 line - 发送邮件成功！
+2019-09-02 22:34:41.300 [main] INFO  com.zhoufudun.mail.test.MailTest 37 line - 邮件发送成功
+2019-09-02 22:35:21.975 [main] INFO  com.zhoufudun.mail.test.MailTest 35 line - 开始发送邮件
+2019-09-02 22:35:24.011 [main] INFO  c.z.m.service.impl.MailServiceImpl 44 line - 发送邮件成功！
+2019-09-05 11:37:16.940 [main] INFO  com.zhoufudun.mail.test.MailTest 35 line - 开始发送邮件
+2019-09-17 17:01:25.043 [main] INFO  com.zhoufudun.mail.test.MailTest 35 line - 锟斤拷始锟斤拷锟斤拷锟绞硷拷
