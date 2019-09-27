@@ -8,3 +8,7 @@
 2019-09-02 22:35:24.011 [main] INFO  c.z.m.service.impl.MailServiceImpl 44 line - ·¢ËÍÓÊ¼þ³É¹¦£¡
 2019-09-05 11:37:16.940 [main] INFO  com.zhoufudun.mail.test.MailTest 35 line - ¿ªÊ¼·¢ËÍÓÊ¼þ
 2019-09-17 17:01:25.043 [main] INFO  com.zhoufudun.mail.test.MailTest 35 line - ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½
+2019-09-24 16:58:32.013 [main] INFO  com.zhoufudun.mail.test.MailTest 35 line - ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½
+2019-09-24 16:59:10.176 [main] ERROR c.z.m.service.impl.MailServiceImpl 47 line - ï¿½ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½ï¿½ì³£
+2019-09-24 16:59:36.851 [main] INFO  com.zhoufudun.mail.test.MailTest 35 line - ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½
+2019-09-24 16:59:42.976 [main] INFO  c.z.m.service.impl.MailServiceImpl 44 line - ï¿½ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½ï¿½É¹ï¿½ï¿½ï¿½
